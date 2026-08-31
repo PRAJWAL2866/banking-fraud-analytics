@@ -1,0 +1,26 @@
+merchant_id,merchant_name,merchant_category
+2001,Lidl,Grocery
+2002,Aldi,Grocery
+2003,REWE,Grocery
+2004,Edeka,Grocery
+2005,Shell,Fuel
+2006,Aral,Fuel
+2007,Esso,Fuel
+2008,DB Bahn,Travel
+2009,Lufthansa,Travel
+2010,FlixBus,Travel
+2011,Amazon,Shopping
+2012,Zalando,Shopping
+2013,IKEA,Shopping
+2014,MediaMarkt,Shopping
+2015,McDonalds,Restaurant
+2016,Burger King,Restaurant
+2017,Subway,Restaurant
+2018,Nordsee,Restaurant
+2019,DM Pharmacy,Healthcare
+2020,Rossmann,Healthcare
+2021,Apotheke,Healthcare
+2022,Netflix,Entertainment
+2023,Spotify,Entertainment
+2024,Steam,Entertainment
+2025,CinemaxX,Entertainment

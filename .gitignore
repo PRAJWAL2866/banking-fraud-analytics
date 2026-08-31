@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore large datasets
+data/raw/bank_transactions.csv
+
+# Keep other datasets
+!data/raw/customers.csv
+!data/raw/merchants.csv
+
+*.pbix
