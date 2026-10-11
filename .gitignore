@@ -10,3 +10,4 @@ data/raw/bank_transactions.csv
 !data/raw/merchants.csv
 
 *.pbix
+sql/banking.db
